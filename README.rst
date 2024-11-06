@@ -1,5 +1,6 @@
 ========================
 intake-dataframe-catalog
+#By Mudassir Alam
 ========================
 
 **A simple intake plugin for a searchable table of intake sources and associated metadata.**
